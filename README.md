@@ -1,6 +1,6 @@
 # Python Smart Contracts: Ecosystem Overview
 
-A concise, Markdown-only overview of the major Python smart contract ecosystems—including Vyper (Ethereum), PyTeal (Algorand), SmartPy (Tezos), and Xian (native-Python Layer-1).
+A concise, Markdown-only overview of the major Python smart contract ecosystems.
 
 ## Overview
 
