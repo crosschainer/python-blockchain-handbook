@@ -1,6 +1,6 @@
 # Python Smart Contracts: Ecosystem Overview
 
-Smart contracts are self-executing programs on blockchain networks that enable decentralized applications and automated agreements without intermediaries. Python’s clear syntax and extensive libraries make it a popular choice for writing, testing, and auditing smart contracts across multiple platforms. Different ecosystems leverage Python in various ways—from Python-like contract languages that compile down to blockchain bytecode, to native execution of Python code on a blockchain. This overview covers four major Python-centric smart contract approaches: **Vyper** (Ethereum), **PyTeal** (Algorand), **SmartPy** (Tezos), and **[XIAN](https://xian.org.org)** (a native-Python Layer-1).
+Smart contracts are self-executing programs on blockchain networks that enable decentralized applications and automated agreements without intermediaries. Python’s clear syntax and extensive libraries make it a popular choice for writing, testing, and auditing smart contracts across multiple platforms. Different ecosystems leverage Python in various ways—from Python-like contract languages that compile down to blockchain bytecode, to native execution of Python code on a blockchain. This overview covers four major Python-centric smart contract approaches: **Vyper** (Ethereum), **PyTeal** (Algorand), **SmartPy** (Tezos), and **[XIAN](https://xian.org)** (a native-Python Layer-1).
 
 ## Frameworks & Languages
 
